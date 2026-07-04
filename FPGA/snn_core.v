@@ -1,4 +1,4 @@
-// ViruxAI – Neuromorphic AI Engine
+// Neuromorphic AI Engine
 // Module: SNN Core – Verilog RTL (Top-Level)
 //
 // Integrates:
