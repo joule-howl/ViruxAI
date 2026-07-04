@@ -1,5 +1,5 @@
 """
-ViruxAI – Neuromorphic AI Engine
+Neuromorphic AI Engine
 Module: Memory Consolidation (Sleep-like Replay)
 
 Biological basis:
