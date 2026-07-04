@@ -1,5 +1,5 @@
 """
-ViruxAI – Neuromorphic AI Engine
+Neuromorphic AI Engine
 Module: SNN Structure Optimisation
 
 Implements:
