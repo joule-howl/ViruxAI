@@ -80,7 +80,10 @@ NeuroSpike-Engine/
 │   ├── edge_ai.py              # DVS + SNN Detector + Kalman Tracker
 │   └── edge_ai_results.png
 │
-├── data/                       # MNIST dataset (auto-downloaded)
+├── Learning/
+│   ├── reward_stdp.py          # Reward-modulated STDP (dopamine signal)
+│   ├── predictive_coding.py    # Predictive Coding (sparse error propagation)
+│   └── memory_consolidation.py # Sleep-based replay (anti-catastrophic forgetting)
 ├── TASK.txt
 └── README.md
 ```
