@@ -84,6 +84,7 @@ NeuroSpike-Engine/
 │   ├── reward_stdp.py          # Reward-modulated STDP (dopamine signal)
 │   ├── predictive_coding.py    # Predictive Coding (sparse error propagation)
 │   └── memory_consolidation.py # Sleep-based replay (anti-catastrophic forgetting)
+│
 ├── TASK.txt
 └── README.md
 ```
