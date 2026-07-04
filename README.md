@@ -1,4 +1,4 @@
-# NeuroSpike-Engine – Neuromorphic AI Engine
+# Neuromorphic AI Engine
 
 A complete neuromorphic AI system built from biological neuron models up to
 embedded hardware deployment. The project covers the full pipeline: single-neuron
