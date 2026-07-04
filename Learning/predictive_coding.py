@@ -1,5 +1,5 @@
 """
-ViruxAI – Neuromorphic AI Engine
+Neuromorphic AI Engine
 Module: Predictive Coding Network
 
 Biological basis:
