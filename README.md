@@ -1,4 +1,4 @@
-# ViruxAI – Neuromorphic AI Engine
+# NeuroSpike-Engine – Neuromorphic AI Engine
 
 A complete neuromorphic AI system built from biological neuron models up to
 embedded hardware deployment. The project covers the full pipeline: single-neuron
@@ -48,7 +48,7 @@ CNN-based edge systems in our simulation experiments.
 ## Project Structure
 
 ```
-ViruxAI/
+NeuroSpike-Engine/
 ├── LIF/
 │   ├── lif_neuron.py           # LIF single-neuron simulation
 │   ├── lif_voltage_traces.png  # Membrane potential at various current levels
@@ -105,7 +105,7 @@ ViruxAI/
 
 ```bash
 # Clone or extract the project
-cd ViruxAI
+cd NeuroSpike-Engine
 
 # Install all dependencies
 pip install numpy matplotlib scipy torch torchvision snntorch
