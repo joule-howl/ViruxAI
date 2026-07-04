@@ -1,4 +1,4 @@
-// ViruxAI – Neuromorphic AI Engine
+// Neuromorphic AI Engine
 // Module: LIF Neuron – Verilog RTL Implementation
 //
 // Implements a single LIF neuron using integer (fixed-point) arithmetic.
