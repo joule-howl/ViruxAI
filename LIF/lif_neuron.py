@@ -1,5 +1,5 @@
 """
-ViruxAI – Neuromorphic AI Engine
+Neuromorphic AI Engine
 Module: Leaky Integrate-and-Fire (LIF) Neuron Simulation
 
 Implements the LIF neuron model using the membrane differential equation:
