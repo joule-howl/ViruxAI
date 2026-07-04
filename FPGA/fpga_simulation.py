@@ -1,5 +1,5 @@
 """
-ViruxAI – Neuromorphic AI Engine
+Neuromorphic AI Engine
 Module: FPGA Hardware Simulation – Fixed-Point LIF & SNN Core
 
 Faithfully simulates the RTL Verilog behaviour in Python using fixed-point
