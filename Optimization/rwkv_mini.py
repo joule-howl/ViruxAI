@@ -1,5 +1,5 @@
 """
-ViruxAI – Neuromorphic AI Engine
+Neuromorphic AI Engine
 Module: RWKV – Receptance Weighted Key Value (non-Transformer architecture)
 
 RWKV processes time-series data as a pure recurrent model with O(1) hidden
