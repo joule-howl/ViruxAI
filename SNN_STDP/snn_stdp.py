@@ -1,5 +1,5 @@
 """
-ViruxAI – Neuromorphic AI Engine
+Neuromorphic AI Engine
 Module: Spiking Neural Network with STDP Learning
 
 Implements:
