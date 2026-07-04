@@ -1,5 +1,5 @@
 """
-ViruxAI – Neuromorphic AI Engine
+Neuromorphic AI Engine
 Module: Neuromorphic Process Runtime
 
 A lightweight Process/Port/Runtime execution engine for multi-layer SNNs.
