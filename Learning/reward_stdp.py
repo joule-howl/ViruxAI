@@ -1,5 +1,5 @@
 """
-ViruxAI – Neuromorphic AI Engine
+Neuromorphic AI Engine
 Module: Reward-Modulated STDP (R-STDP)
 
 Biological basis:
