@@ -1,5 +1,5 @@
 """
-ViruxAI – Neuromorphic AI Engine
+Neuromorphic AI Engine
 Module: Edge AI – Event-based Vision & Real-time Object Tracking
 
 Integrates an SNN with a Dynamic Vision Sensor (DVS) camera.
